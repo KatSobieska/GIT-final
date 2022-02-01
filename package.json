@@ -1,0 +1,24 @@
+{
+  "name": "git-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatSobieska/GIT-final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatSobieska/GIT-final/issues"
+  },
+  "homepage": "https://github.com/KatSobieska/GIT-final#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "html-validate": "^6.2.0"
+  }
+}
