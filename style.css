@@ -1,0 +1,15 @@
+.song {
+    text-align: left;
+    width: 300px;
+}
+h1 {
+    font-weight: bold;
+}
+h3 {
+    font-style: italic;
+    color: #c56912;
+}
+p {
+    padding: 15px;
+    padding-left: 0;
+}
